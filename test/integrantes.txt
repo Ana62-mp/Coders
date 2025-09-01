@@ -1,0 +1,10 @@
+---------CODERS---------------
+Nombre: Ana Moposita  1
+usuario:
+hobbies: Leer, escuchar musica, aprender idiomas, senderismo y crochet
+-------------------------------------------------------
+Nombre: Belén Paredes 2
+usuario:  belenparedes
+Hobbies: escuchar musica, hacer deportes, Leer
+------------------------------------------------------
+
