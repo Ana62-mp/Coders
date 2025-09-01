@@ -7,4 +7,6 @@ Nombre: Belén Paredes 2
 usuario:  belenparedes
 Hobbies: escuchar musica, hacer deportes, Leer
 ------------------------------------------------------
-
+Nombre:Deyvid Carrera 3  
+Usuario: Deyvid23r4 
+Hobbies: baloncesto, la música, los videojuegos y viajar.
